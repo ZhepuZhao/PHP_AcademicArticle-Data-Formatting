@@ -1,0 +1,5 @@
+4|Yoda|Jedi Swamp Training Tips and Tricks|Jedi Master Notes|2004|html|http://www.ils.unc.edu/courses/2007_spring/inls760_001/p2/document1.html
+2|Kenobe, B.|These are not the SUVs you're looking for.|Car and Glider|2006|html|http://www.ils.unc.edu/courses/2007_spring/inls760_001/p2/document2.html
+1|Skywalker, L. and Kenobe, B.|Using the Force to Create Web Databases|J. of Really Great Web Databases|2007|html|http://www.ils.unc.edu/courses/2007_spring/inls760_001/p2/document3.html
+5|R2D2 and C3P0|Where to find spare parts for yourself on Tatooine.|Droids Weekly|2007|html|http://www.ils.unc.edu/courses/2007_spring/inls760_001/p2/document4.html
+3|Princess Leia|Blaster shooting 101|Outer Rim University Press|2007|html|http://www.ils.unc.edu/courses/2007_spring/inls760_001/p2/document5.html

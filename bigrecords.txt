@@ -1,0 +1,225 @@
+1|Luis C. Ho and Alexei V. Filippenko and Wallace L. W. Sargent|A Search for "Dwarf" Seyfert Nuclei. III. Spectroscopic Parameters and  Properties of the Host Galaxies|The Astrophysical Journal|1997|html|http://arxiv.org/abs/astro-ph/9704107
+2|M. E. J. Newman|Who is the best connected scientist? A study of scientific coauthorship  networks|Physical Review E|2001|html|http://arxiv.org/abs/cond-mat/0011144
+3|M. E. J. Newman|The structure of scientific collaboration networks|PROC.NATL.ACAD.SCI.USA|2001|html|http://arxiv.org/abs/cond-mat/0007214
+4|Michel Boyer and Gilles Brassard and Peter Hoeyer and Alain Tapp|Tight bounds on quantum searching|Fortschritte der Physik|1998|html|http://arxiv.org/abs/quant-ph/9605034
+5|E. Cappellaro and R. Evans and M. Turatto|A new determination of supernova rates and a comparison with indicators  for galactic star formation|ASTRON.ASTROPHYS.|1999|html|http://arxiv.org/abs/astro-ph/9904225
+6|Lov K. Grover|A fast quantum mechanical algorithm for database search|ASTRON.ASTROPHYS.|1996|html|http://arxiv.org/abs/quant-ph/9605043
+7|R. A. Arndt and I. I. Strakovsky and R. L. Workman|K+ nucleon scattering and exotic S=+1 Baryons|ERRATUM-IBID.C|2004|html|http://arxiv.org/abs/nucl-th/0308012
+8|A. E. Shapley and C. C. Steidel and M. Pettini and K. L. Adelberger|Rest-Frame Ultraviolet Spectra of z\~3 Lyman Break Galaxies|The Astrophysical Journal|2003|html|http://arxiv.org/abs/astro-ph/0301230
+9|Matthew Shetrone and Patrick Cote and W. L. W. Sargent|Abundance Patterns in the Draco, Sextans and Ursa Minor Dwarf Spheroidal  Galaxies|The Astrophysical Journal|2001|html|http://arxiv.org/abs/astro-ph/0009505
+10|A. Rosenberg and I. Saviane and G. Piotto and A. Aparicio|Galactic Globular Cluster Relative Ages|Astronomical Journal|1999|html|http://arxiv.org/abs/astro-ph/9907394
+11|Peter B. Stetson|Homogeneous Photometry for Star Clusters and Resolved Galaxies. II.  Photometric Standard Stars|Publications of the Astronomical Society of the Pacific|2000|html|http://arxiv.org/abs/astro-ph/0004144
+12|Thibault Lejeune and Daniel Schaerer|Database of Geneva stellar evolution tracks and isochrones for  UBVRIJHKLL'M, HST-WFPC2, Geneva and Washington photometric systems|ASTRON.ASTROPHYS.|2001|html|http://arxiv.org/abs/astro-ph/0011497
+13|Michael N. Leuenberger and Daniel Loss|Quantum Computing in Molecular Magnets|Nature|2001|html|http://arxiv.org/abs/cond-mat/0011415
+14|Neil Shenvi and Julia Kempe and K. Birgitta Whaley|A Quantum Random Walk Search Algorithm|Physical Review A|2003|html|http://arxiv.org/abs/quant-ph/0210064
+15|W. Yuan and W. Brinkmann and J. Siebert and W. Voges|Broad band energy distribution of ROSAT detected quasars II: Radio-quiet  objects|ASTRON.ASTROPHYS.|1998|html|http://arxiv.org/abs/astro-ph/9805015
+16|P. Katgert and A. Mazure and J. Perea and R. den Hartog|The ESO Nearby Abell Cluster Survey. I. Description of the Dataset and  Definition of Physical Systems|ASTRON.ASTROPHYS.|1996|html|http://arxiv.org/abs/astro-ph/9511051
+17|M. M. Pavan and I. I. Strakovsky and R. L. Workman and R. A. Arndt|The pion-nucleon Sigma term is definitely large: results from a G.W.U.  analysis of pion nucleon scattering data|PIN NEWSLETT.|2002|html|http://arxiv.org/abs/hep-ph/0111066
+18|Lov K. Grover|Quantum Mechanics helps in searching for a needle in a haystack|Nucleic Acids Research|1997|html|http://arxiv.org/abs/quant-ph/9706033
+19|Chang Won Lee and Philip C. Myers|A Catalogue of Optically Selected Cores|The Astrophysical Journal|1999|html|http://arxiv.org/abs/astro-ph/9901175
+20|Jeremie Roland and Nicolas J. Cerf|Quantum Search by Local Adiabatic Evolution|Physical Review A|2002|html|http://arxiv.org/abs/quant-ph/0107015
+21|A. Pietrinferni and S. Cassisi and M. Salaris and F. Castelli|A large stellar evolution database for population synthesis studies. I.  Scaled solar models and isochrones|The Astrophysical Journal|2004|html|http://arxiv.org/abs/astro-ph/0405193
+22|D. J. Watts and P. S. Dodds and M. E. J. Newman|Identity and Search in Social Networks|Science|2002|html|http://arxiv.org/abs/cond-mat/0205383
+23|R. A. Arndt and I. I. Strakovsky and R. L. Workman|K+N scattering data and exotic Z+ resonances|Nuclear Physics A|2005|html|http://arxiv.org/abs/nucl-th/0311030
+24|P. G. Kwiat and J. R. Mitchell and P. D. D. Schwindt and A. G. White|Grover's search algorithm: An optical approach|Journal of Modern Optics|2000|html|http://arxiv.org/abs/quant-ph/9905086
+25|Lynne A. Hillenbrand and Russel J. White|An Assessment of Dynamical Mass Constraints on Pre-Main Sequence  Evolutionary Tracks|The Astrophysical Journal|2004|html|http://arxiv.org/abs/astro-ph/0312189
+26|Eric W. Deutsch|Empirical Uncertainty Estimators for Astrometry from Digital Databases|Astronomical Journal|1999|html|http://arxiv.org/abs/astro-ph/9906177
+27|Duncan A. Forbes and Juan C. Forte|The Connection between Globular Cluster Systems and the Host Galaxies|MON.NOT.ROY.ASTRON.SOC.|2001|html|http://arxiv.org/abs/astro-ph/0005481
+28|Harry Buhrman and Richard Cleve and Avi Wigderson|Quantum vs. Classical Communication and Computation|Nucleic Acids Research|1998|html|http://arxiv.org/abs/quant-ph/9802040
+29|Roger Guimera and Luis A. Nunes Amaral|Functional cartography of complex metabolic networks|Nature|2005|html|http://arxiv.org/abs/q-bio/0502035
+30|John F. Donoghue and Eugene Golowich|Chiral Sum Rules and Their Phenomenology|Physical Review D|1994|html|http://arxiv.org/abs/hep-ph/9307262
+31|B. M. Terhal and J. A. Smolin|Single quantum querying of a database|Physical Review A|1998|html|http://arxiv.org/abs/quant-ph/9705041
+32|J. Anthony Tyson and the LSST Collaboration|Large Synoptic Survey Telescope: Overview|PROC.SPIE INT.SOC.OPT.ENG.|2002|html|http://arxiv.org/abs/astro-ph/0302102
+33|Zong-Hong Zhu|Generalized Chaplygin gas as a unified scenario of dark matter/energy:  observational constraints|ASTRON.ASTROPHYS.|2004|html|http://arxiv.org/abs/astro-ph/0411039
+34|Andrew M. Childs and John Preskill and Joseph Renes|Quantum information and precision measurement|Journal of Modern Optics|2000|html|http://arxiv.org/abs/quant-ph/9904021
+35|Dorit Aharonov|Quantum Computation|The Astrophysical Journal|1998|html|http://arxiv.org/abs/quant-ph/9812037
+36|Tim J. Harries and Ron W. Hilditch and Ian D. Howarth|Ten eclipsing binaries in the Small Magellanic Cloud: fundamental  parameters and SMC distance|MON.NOT.ROY.ASTRON.SOC.|2003|html|http://arxiv.org/abs/astro-ph/0210295
+37|Alessandro Chieffi and Marco Limongi|The Explosive Yields Produced by the First Generation of Core Collapse  Supernovae and the Chemical Composition of Extremely Metal Poor Stars|The Astrophysical Journal|2002|html|http://arxiv.org/abs/astro-ph/0205542
+38|Zong-Hong Zhu and Masa-Katsu Fujimoto and Xiang-Tao He|Observational constraints on cosmology from modified Friedmann equation|The Astrophysical Journal|2004|html|http://arxiv.org/abs/astro-ph/0403228
+39|Luis C. Ho and Alexei V. Filippenko and Wallace L. W. Sargent|A Search for "Dwarf" Seyfert Nuclei. VI. Properties of Emission-Line  Nuclei in Nearby Galaxies|The Astrophysical Journal|2003|html|http://arxiv.org/abs/astro-ph/0210048
+40|H. K. C. Yee and E. Ellingson|Correlations of Richness and Global Properties in Galaxy Clusters|The Astrophysical Journal|2003|html|http://arxiv.org/abs/astro-ph/0211096
+41|Kelle L. Cruz and I. Neill Reid|Meeting the Cool Neighbors III: Spectroscopy of Northern NLTT Stars|MAY|2002|html|http://arxiv.org/abs/astro-ph/0202461
+42|Brian Chaboyer and P. Demarque|\$\^7\$Li Abundances in Halo Stars: Testing Stellar Evolution Models and  the Primordial \$\^7\$Li Abundance|The Astrophysical Journal|1994|html|http://arxiv.org/abs/astro-ph/9403043
+43|L. L. Kiss and T. Bedding|Red variables in the OGLE-II database. I. Pulsations and  period-luminosity relations below the tip of the Red Giant Branch of the LMC|MON.NOT.ROY.ASTRON.SOC.|2003|html|http://arxiv.org/abs/astro-ph/0306426
+44|G. L. Long|Grover Algorithm with zero theoretical failure rate|Physical Review A|2001|html|http://arxiv.org/abs/quant-ph/0106071
+45|V. Castellani and S. Degl'Innocenti and P. G. Prada Moroni|Stellar models and Hyades: the Hipparcos test|MON.NOT.ROY.ASTRON.SOC.|2001|html|http://arxiv.org/abs/astro-ph/0009019
+46|Ralf Klessen and Eva Grebel and Daniel Harbeck|Draco -- A Failure of the Tidal Model|The Astrophysical Journal|2003|html|http://arxiv.org/abs/astro-ph/0302287
+47|A. Boselli and G. Gavazzi and G. Sanvito|UV to radio centimetric spectral energy distributions of  optically-selected late-type galaxies in the Virgo cluster|ASTRON.ASTROPHYS.|2003|html|http://arxiv.org/abs/astro-ph/0301134
+48|M. Salaris and M. Riello and S. Cassisi and G. Piotto|The Initial Helium Abundance of the Galactic Globular Cluster System|ASTRON.ASTROPHYS.|2004|html|http://arxiv.org/abs/astro-ph/0403600
+49|GMAN collaborations: C. Alcock al|Binary Microlensing Events from the MACHO Project|ASTRON.ASTROPHYS.|1999|html|http://arxiv.org/abs/astro-ph/9907369
+50|Daniel E. Holz|Seeing double: strong gravitational lensing of high-redshift supernovae|The Astrophysical Journal|2001|html|http://arxiv.org/abs/astro-ph/0104440
+51|Simone Daflon and Katia Cunha|Galactic Metallicity Gradients Derived from a Sample of OB Stars|The Astrophysical Journal|2004|html|http://arxiv.org/abs/astro-ph/0409084
+52|Zong-Hong Zhu and Jailson S. Alcaniz|Accelerating universe from gravitational leakage into extra dimensions:  confrontation with SNeIa|The Astrophysical Journal|2005|html|http://arxiv.org/abs/astro-ph/0404201
+53|M. C. Smith and S. Mao and P. R. Wozniak|Parallax Microlensing Events in the OGLE II Database Toward the Galactic  Bulge|MON.NOT.ROY.ASTRON.SOC.|2002|html|http://arxiv.org/abs/astro-ph/0108214
+54|P. Moskalik and E. Poretti|Fourier decomposition and frequency analysis of the pulsating stars with  P $<$ 1day in the OGLE database. II. Multiperiodic RR Lyrae variables in the  Galactic Bulge|ASTRON.ASTROPHYS.|2003|html|http://arxiv.org/abs/astro-ph/0211296
+55|David M. Goldberg and Przemyslaw Wozniak|Astrometric Shifts in the OGLE-1 Microlensing Events|Acta Astronautica|1998|html|http://arxiv.org/abs/astro-ph/9712262
+56|D. Sornette and F. Deschatres and T. Gilbert and Y. Ageon|Endogenous Versus Exogenous Shocks in Complex Networks: an Empirical  Test Using Book Sale Ranking|PHYS.REV.LETTS.|2004|html|http://arxiv.org/abs/cond-mat/0310135
+57|G. Kovacs|The distance modulus of the Large Magellanic Cloud based on double-mode  RR Lyrae stars|ASTRON.ASTROPHYS.|2000|html|http://arxiv.org/abs/astro-ph/0011056
+58|Brice Menard and Matthias Bartelmann|Cosmological Information from Quasar-Galaxy Correlations induced by Weak  Lensing|ASTRON.ASTROPHYS.|2002|html|http://arxiv.org/abs/astro-ph/0203163
+59|M. M. Pavan and R. A. Arndt and I. I. Strakovsky and R. L. Workman|Determination of the Pion-Nucleon Coupling Constant in the VPI/GW  Pion-Nucleon Elastic Scattering Partial Wave and Dispersion Relation Analyis|PHYS.SCRIPTA T|2000|html|http://arxiv.org/abs/nucl-th/9910040
+60|J. M. Butterworth and S. Butterworth|JetWeb: A WWW Interface and Database for Monte Carlo Tuning and  Validation|Computer Physics Communications|2003|html|http://arxiv.org/abs/hep-ph/0210404
+61|L. L. Kiss and T. Bedding|Red variables in the OGLE-II database. II. Comparison of the Large and  Small Magellanic Clouds|MON.NOT.ROY.ASTRON.SOC.|2004|html|http://arxiv.org/abs/astro-ph/0312237
+62|H. Mouri and Y. Taniguchi|Far-Infrared Census of Starburst-Seyfert Connection|The Astrophysical Journal|2002|html|http://arxiv.org/abs/astro-ph/0106155
+63|Apoorva Patel|Quantum Algorithms and the Genetic Code|PRAMANA|2001|html|http://arxiv.org/abs/quant-ph/0002037
+64|L. Monaco and F. R. Ferraro and M. Bellazzini and E. Pancino|First detection of the RGB-bump in the Sagittarius dSph|The Astrophysical Journal|2002|html|http://arxiv.org/abs/astro-ph/0208581
+65|Lynne A. Valencic and Geoffrey C. Clayton and Karl D. Gordon|Ultraviolet Extinction Properties in the Milky Way|The Astrophysical Journal|2004|html|http://arxiv.org/abs/astro-ph/0408409
+66|Zong-Hong Zhu and Masa-Katsu Fujimoto and Xiang-Tao He|Determining the equation of state of dark energy from angular size of  compact radio sources and X-ray gas mass fraction of galaxy clusters|ASTRON.ASTROPHYS.|2004|html|http://arxiv.org/abs/astro-ph/0401095
+67|M. Lopez-Morales and I. Ribas|GU Boo: A New 0.6 Msun Detached Eclipsing Binary|The Astrophysical Journal|2005|html|http://arxiv.org/abs/astro-ph/0505001
+68|Mark A. Miller and Jonathan P. K. Doye and David J. Wales|Structural relaxation in atomic clusters: Master equation dynamics|Physical Review E|1999|html|http://arxiv.org/abs/cond-mat/9905096
+69|R. Timmermans and Th A. Rijken and J. J. {de Swart}|Antiproton-proton partial-wave analysis below 925 MeV/c|Physical Review C|1994|html|http://arxiv.org/abs/nucl-th/9403011
+70|I. S. Glass and M. Schultheis|M giants in Macho, DENIS and Isogal|MON.NOT.ROY.ASTRON.SOC.|2002|html|http://arxiv.org/abs/astro-ph/0208253
+71|Thomas Rauch and Jochen L. Deetjen|Handling of Atomic Data|ASP CONF.SER.|2003|html|http://arxiv.org/abs/astro-ph/0403239
+72|R. W. Hilditch and I. D. Howarth and T. J. Harries|Forty eclipsing binaries in the Small Magellanic Cloud: fundamental  parameters and Cloud distance|MON.NOT.ROY.ASTRON.SOC.|2005|html|http://arxiv.org/abs/astro-ph/0411672
+73|Martin Groenewegen|Long Period Variables in the Magellanic Clouds: OGLE + 2MASS + DENIS|ASTRON.ASTROPHYS.|2004|html|http://arxiv.org/abs/astro-ph/0404561
+74|M. Catelan and J. A. de Freitas Pacheco and J. E. Horvath|The Helium-Core Mass at the Helium Flash in Low-Mass Red Giant Stars:  Observations and Theory|ASTROPHYSICAL JOURNAL|1996|html|http://arxiv.org/abs/astro-ph/9509062
+75|Eli Eisenberg and Erez Y. Levanon|Human housekeeping genes are compact|Trends in Genetics|2003|html|http://arxiv.org/abs/q-bio/0309020
+76|Patrick Tisserand and Alain Milsztajn|Preliminary results on galactic dark matter from the complete EROS2  microlensing survey|Trends in Genetics|2005|html|http://arxiv.org/abs/astro-ph/0501584
+77|M. Catelan|The Evolutionary Status of M3 RR Lyrae Variables: Breakdown of the  Canonical Framework?|The Astrophysical Journal|2004|html|http://arxiv.org/abs/astro-ph/0309188
+78|Marc Freitag and Willy Benz|A comprehensive set of simulations of high-velocity collisions between  main sequence stars|MON.NOT.ROY.ASTRON.SOC.|2005|html|http://arxiv.org/abs/astro-ph/0403621
+79|Sergei A. Trushkin|Radio spectra of the WMAP catalog sources|BULL.SPEC.ASTROPHYS.OBS.N.CAUCASUS|2003|html|http://arxiv.org/abs/astro-ph/0307205
+80|Neal A. Miller and Frazer N. Owen|The Radio Galaxy Populations of Nearby Northern Abell Clusters|The Astrophysical Journal|2001|html|http://arxiv.org/abs/astro-ph/0101114
+81|G. Chen and S. A. Fulling and M. O. Scully|Grover's Algorithm for Multiobject Search in Quantum Computing|MOD.PHYS.LETT.A|1999|html|http://arxiv.org/abs/quant-ph/9909040
+82|P. G. Edwards and B. G. Piner|The Sub-Luminal Parsec-scale Jet of Mkn 501|The Astrophysical Journal|2002|html|http://arxiv.org/abs/astro-ph/0210482
+83|J. -C. Mermilliod and E. Paunzen|Analysing the database for stars in open clusters I. General methods and  description of the data|ASTRON.ASTROPHYS.|2003|html|http://arxiv.org/abs/astro-ph/0310116
+84|Yamir Moreno and Maziar Nekovee and Amalio F. Pacheco|Dynamics of Rumor Spreading in Complex Networks|Physical Review E|2004|html|http://arxiv.org/abs/cond-mat/0312131
+85|Dean E. McLaughlin and Roeland P. {van der Marel}|Resolved Massive Star Clusters in the Milky Way and its Satellites:  Brightness Profiles and a Catalogue of Fundamental Parameters|The Astrophysical Journal|2005|html|http://arxiv.org/abs/astro-ph/0605132
+86|Ferdinando Patat|UBVRI Night sky brightness during sunspot maximum at ESO-Paranal|ASTRON.ASTROPHYS.|2003|html|http://arxiv.org/abs/astro-ph/0301115
+87|Y. Ide and S. Nagataki and S. Tsubaki and H. Yoshiguchi and K. Sato|Propagation of UHECRs from the Sources in the Super-Galactic Plane|PUBL.ASTRON.SOC.JAP.|2001|html|http://arxiv.org/abs/astro-ph/0106182
+88|Seth Redfield and Jeffrey L. Linsky|The Structure of the Local Interstellar Medium. II. Observations of D I,  C II, N I, O I, Al II, and Si II toward Stars within 100 parsecs|The Astrophysical Journal|2004|html|http://arxiv.org/abs/astro-ph/0310878
+89|Lov K. Grover|A different kind of quantum search|J.MOL.EVOL.|2005|html|http://arxiv.org/abs/quant-ph/0503205
+90|R. A. Arndt and I. I. Strakovsky and R. L. Workman and M. M. Pavan|Sensitivity to the pion-nucleon coupling constant in partial-wave  analyses of elastic pi-N and NN scattering and pion photoproduction|PHYS.SCRIPTA T|2000|html|http://arxiv.org/abs/nucl-th/9908057
+91|J. Kube and B. T. Gaensicke and F. Euchner and B. Hoffmann|CVcat: an interactive database on cataclysmic variables|ASTRON.ASTROPHYS.|2003|html|http://arxiv.org/abs/astro-ph/0304517
+92|M. J. Disney|The Case Against Cosmology|General Relativity and Gravitation|2000|html|http://arxiv.org/abs/astro-ph/0009020
+93|Craig Warner and Fred Hamann and Matthias Dietrich|A Relation Between Supermassive Black Hole Mass and Quasar Metallicity?|The Astrophysical Journal|2003|html|http://arxiv.org/abs/astro-ph/0307247
+94|Christof Zalka|Could Grover's quantum algorithm help in searching an actual database?|ASTRON.ASTROPHYS.|1999|html|http://arxiv.org/abs/quant-ph/9901068
+95|R. N. Manchester and G. B. Hobbs and A. Teoh and M. Hobbs|The ATNF Pulsar Catalogue|ASTRON.ASTROPHYS.|2004|html|http://arxiv.org/abs/astro-ph/0412641
+96|G. Kovacs|On the double-mode RR Lyrae variables of the Sculptor dwarf galaxy|ASTRON.ASTROPHYS.|2001|html|http://arxiv.org/abs/astro-ph/0106409
+97|L. Xiao and G. L. Long|Fetching marked items from an unsorted database in NMR ensemble computing|Physical Review A|2002|html|http://arxiv.org/abs/quant-ph/0112162
+98|Yongquan Xue and Wei Cui|X-ray Flares from Markarian 501|The Astrophysical Journal|2005|html|http://arxiv.org/abs/astro-ph/0412226
+99|Marc Barthelemy and Bernard Gondran and Eric Guichard|Spatial Structure of the Internet Traffic|PHYSICA A|2003|html|http://arxiv.org/abs/cond-mat/0208553
+100|Dong Pyo Chi and Jinsoo Kim|Quantum Database Searching by a Single Query|AND FRACTALS|1999|html|http://arxiv.org/abs/quant-ph/9708005
+101|R. S. Markiewicz|A Survey of the Van Hove Scenario for High-T\_c Superconductivity With  Special Emphasis on Pseudogaps and Striped Phases|BMC Bioinformatics|1996|html|http://arxiv.org/abs/cond-mat/9611238
+102|R. E. Mennickent and G. Pietrzynski and W. Gieren and O. Szewczyk|On Be Star Candidates and Possible Blue Pre-Main Sequence Objects in the  Small Magellanic Cloud|ASTRON.ASTROPHYS.|2002|html|http://arxiv.org/abs/astro-ph/0204390
+103|S. S. Hsiao and D. H. Lu and Shin Nan Yang|Pseudovector versus pseudoscalar coupling in kaon photoproduction -  revisited|Physical Review C|2000|html|http://arxiv.org/abs/nucl-th/0004007
+104|R. Paladini and G. DeZotti and R. D. Davies|Spatial distribution of Galactic HII regions|MON.NOT.ROY.ASTRON.SOC.|2004|html|http://arxiv.org/abs/astro-ph/0309350
+105|Alexander S. Yeh and Lynette Hirschman and Alexander A. Morgan|Evaluation of text data mining for database curation: lessons learned  from the KDD Challenge Cup|Bioinformatics|2003|html|http://arxiv.org/abs/cs/0308032
+106|Charles R. Keeton and Michael Kuhlen and Zoltan Haiman|Gravitational lensing magnification without multiple imaging|The Astrophysical Journal|2005|html|http://arxiv.org/abs/astro-ph/0405143
+107|Terry Rudolph and Lov Grover|Quantum searching a classical database (or how we learned to stop  worrying and love the bomb)|Genome Biology|2002|html|http://arxiv.org/abs/quant-ph/0206066
+108|L. Girardi and M. A. T. Groenewegen and A. Weiss and M. Salaris|Fine structure of the red giant clump from HIPPARCOS data, and distance  determinations based on its mean magnitude|Nucleic Acids Research|1998|html|http://arxiv.org/abs/astro-ph/9805127
+109|David L. Band and Jay P. Norris and Jerry T. Bonnell|Gamma-Ray Burst Intensity Distributions|The Astrophysical Journal|2004|html|http://arxiv.org/abs/astro-ph/0403220
+110|T. R. Kendall and X. Delfosse and E. L. Martin and T. Forveille|Discovery of very nearby ultracool dwarfs from DENIS|ASTRON.ASTROPHYS.|2004|html|http://arxiv.org/abs/astro-ph/0402171
+111|Ronald A. Remillard and Alan M. Levine|The RXTE All Sky Monitor: First Year of Performance|BMC Bioinformatics|1997|html|http://arxiv.org/abs/astro-ph/9707338
+112|M. E. J. Newman and Paolo Sibani|Extinction, diversity and survivorship of taxa in the fossil record|PROC.R.SOC.LONDON B|1999|html|http://arxiv.org/abs/adap-org/9811003
+113|Lov K. Grover and Jaikumar Radhakrishnan|Is partial quantum search of a database any easier?|Nucleic Acids Research|2004|html|http://arxiv.org/abs/quant-ph/0407122
+114|Chikara Furusawa and Kunihiko Kaneko|Zipf's Law in Gene Expression|BMC Bioinformatics|2002|html|http://arxiv.org/abs/physics/0209103
+115|Gui Lu Long and Li Xiao|Experimental realization of a fetching algorithm in a 7 qubit NMR  quantum computer|J.CHEM.PHYS.|2003|html|http://arxiv.org/abs/quant-ph/0207079
+116|W. S. Paciesas and R. D. Preece and M. S. Briggs and R. S. Mallozzi|Spectral Properties of Short Gamma-Ray Bursts|AIP CONF.PROC.|2003|html|http://arxiv.org/abs/astro-ph/0109053
+117|Seth Lloyd|Quantum search without entanglement|AIP CONF.PROC.|1999|html|http://arxiv.org/abs/quant-ph/9903057
+118|Tathagat Tulsi and Lov Grover and Apoorva Patel|A new algorithm for fixed point quantum search|The Astrophysical Journal|2005|html|http://arxiv.org/abs/quant-ph/0505007
+119|C. Allende Prieto and I. Hubeny and D. L. Lambert|Non-LTE Model Atmospheres for Late-Type Stars II. Restricted NLTE  Calculations for a Solar-Like Atmosphere|The Astrophysical Journal|2003|html|http://arxiv.org/abs/astro-ph/0303560
+120|David L. Band|Post-Launch Analysis of Swift's Gamma-Ray Burst Detection Sensitivity|Genome Biology|2006|html|http://arxiv.org/abs/astro-ph/0602267
+121|A. Pietrinferni and S. Cassisi and M. Salaris and F. Castelli|A large stellar evolution database for population synthesis studies. II.  Stellar models and isochrones for an alpha-enhanced metal distribution|The Astrophysical Journal|2006|html|http://arxiv.org/abs/astro-ph/0603721
+122|C. Porcel and F. Garzon and J. Jimenez-Vicente and E. Battaner|The radial scale length of the Milky Way|A AND A|1998|html|http://arxiv.org/abs/astro-ph/9710197
+123|E. Pignatelli and G. Galletta|Multi-component models for disk galaxies. I. Stellar rotation and  anisotropy|Astronomy and Astrophysics|1999|html|http://arxiv.org/abs/astro-ph/9705042
+124|Shahn Majid|Beyond Supersymmetry and Quantum Symmetry (an introduction to braided  groups and braided matrices)|Astronomy and Astrophysics|1992|html|http://arxiv.org/abs/hep-th/9212151
+125|A. W. Strong and I. V. Moskalenko|New developments in the GALPROP CR propagation model|Nucleic Acids Research|2001|html|http://arxiv.org/abs/astro-ph/0106504
+126|Aaron D. Lewis and John T. Stocke and E. Ellingson and Eric J. Gaidos|New X-ray Clusters in the EMSS I: Modifications to the XLF|The Astrophysical Journal|2002|html|http://arxiv.org/abs/astro-ph/0110156
+127|Heath B. O'Connell|Physicists Thriving with Paperless Publishing|HEP LIB.WEB.|2002|html|http://arxiv.org/abs/physics/0007040
+128|I. M. Savukov and W. R. Johnson|Two-photon E1M1 decay of 2 3P0 states in heavy heliumlike ions|Physical Review A|2002|html|http://arxiv.org/abs/physics/0209086
+129|O. A. Ponkratenko and V. I. Tretyak and Yu G. Zdesenko|The event generator DECAY4 for simulation of double beta processes and  decay of radioactive nuclei|YAD.FIZ.|2000|html|http://arxiv.org/abs/nucl-ex/0104018
+130|Austin B. Tomaney|Principles and Applications of Difference Imaging|BMC Cancer|1998|html|http://arxiv.org/abs/astro-ph/9801233
+131|M. Boguna and J. Masoliver|Conditional dynamics driving financial markets|Nucleic Acids Research|2003|html|http://arxiv.org/abs/cond-mat/0310217
+132|A. A. Arkhipov|Proton-Proton Total Cross-Sections from the Window of Cosmic Ray  Experiments|Nucleic Acids Research|2001|html|http://arxiv.org/abs/hep-ph/0108118
+133|C. Clarke and G. Lodato and S. Y. Melnikov and M. A. Ibrahimov|The photometric evolution of FU Orionis objects: disc instability and  wind-envelope interaction|MON.NOT.ROY.ASTRON.SOC.|2005|html|http://arxiv.org/abs/astro-ph/0505515
+134|Martin A. T. Groenewegen|LMC and SMC Cepheids: combining OGLE with DENIS 2MASS infrared data|ASTRON.ASTROPHYS.|2000|html|http://arxiv.org/abs/astro-ph/0010298
+135|K. Szatmary and L. L. Kiss and Zs Bebesi|The He-shell flash in action: T Ursae Minoris revisited|ASTRON.ASTROPHYS.|2003|html|http://arxiv.org/abs/astro-ph/0211284
+136|Stefanie Komossa and Michael Dahlem|X-ray outbursts from nearby `normal' and active galaxies. A review, new  radio observations, and an X-ray search for further tidal disruption flares|ASTRON.ASTROPHYS.|2001|html|http://arxiv.org/abs/astro-ph/0106422
+137|Wendy L. Freedman and for the Carnegie Supernova Project|The Carnegie Supernova Project|BMC Genomics|2004|html|http://arxiv.org/abs/astro-ph/0411176
+138|Richard A. Arndt Igor I. Strakovsky and Ron Workman|Analysis of \$\\pi\$d elastic scattering data to 500 MeV|Physical Review C|1994|html|http://arxiv.org/abs/nucl-th/9407032
+139|J. B. Milingo and R. B. C. Henry and K. B. Kwitter|Sulfur, Chlorine, \& Argon Abundances in Planetary Nebulae. IIB:  Abundances in a Southern Sample|The Astrophysical Journal|2002|html|http://arxiv.org/abs/astro-ph/0109161
+140|Matthias Steinmetz and for the RAVE science working group|RAVE: The RAdial Velocity Experiment|The Astrophysical Journal|2002|html|http://arxiv.org/abs/astro-ph/0211417
+141|F. Caputo and S. Cassisi|Global metallicity of globular cluster stars from colour-magnitude  diagrams|MON.NOT.ROY.ASTRON.SOC.|2002|html|http://arxiv.org/abs/astro-ph/0202501
+142|Fabrizio Lillo and Rosario N. Mantegna|Statistical Properties of Statistical Ensembles of Stock Returns|MON.NOT.ROY.ASTRON.SOC.|1999|html|http://arxiv.org/abs/cond-mat/9909302
+143|N. Mauron and M. Azzopardi and K. Gigoyan and T. R. Kendall|Cool carbon stars in the halo: a new survey based on 2MASS|ASTRON.ASTROPHYS.|2004|html|http://arxiv.org/abs/astro-ph/0401564
+144|Zong-Kuan Guo and Yuan-Zhong Zhang|Observational Constraints on Variable Chaplygin Gas|ASTRON.ASTROPHYS.|2005|html|http://arxiv.org/abs/astro-ph/0509790
+145|Gui Lu Long|The General Quantum Interference Principle and the Duality Computer|COMMUN.THEOR.PHYS.|2006|html|http://arxiv.org/abs/quant-ph/0512120
+146|Miles Reid|Examples of Type IV unprojection|BMC Bioinformatics|2001|html|http://arxiv.org/abs/math/0108037
+147|R. Arndt and W. Briscoe and I. Strakovsky and R. Workman|Multipole Analysis of Recent Pion Electroproduction Data|BMC Bioinformatics|2003|html|http://arxiv.org/abs/nucl-th/0301068
+148|Lov K. Grover|Quantum computers can search arbitrarily large databases by a single  query|BMC Bioinformatics|1997|html|http://arxiv.org/abs/quant-ph/9706005
+149|R. Beck and B. M. Gaensler|Observations of magnetic fields in the Milky Way and in nearby galaxies  with a Square Kilometre Array|New Astronomy Reviews|2004|html|http://arxiv.org/abs/astro-ph/0409368
+150|A. Dobrzycki and L. M. Macri and K. Z. Stanek and P. J. Groot|Variability-selected quasars behind the Small Magellanic Cloud|Astronomical Journal|2003|html|http://arxiv.org/abs/astro-ph/0210601
+151|Mustapha Ishak and Kayll Lake|An Online Interactive Geometric Database: Including Exact Solutions of  Einstein's Field Equations|Classical and Quantum Gravity|2002|html|http://arxiv.org/abs/gr-qc/0111008
+152|J. C. Ling and Wm A. Wheaton|BATSE Soft Gamma-Ray Observations of GROJ0422+32|The Astrophysical Journal|2003|html|http://arxiv.org/abs/astro-ph/0210673
+153|Swara Ravindranath and Luis C. Ho and Alexei V. Filippenko|Nuclear Cusps and Cores in Early-type Galaxies As Relics of Binary Black  Hole Mergers|Nucleic Acids Research|2001|html|http://arxiv.org/abs/astro-ph/0110441
+154|Beverly J. Smith|Infrared Colors and Variability of Evolved Stars from COBE DIRBE Data|Astronomical Journal|2003|html|http://arxiv.org/abs/astro-ph/0305067
+155|Pedro Lacerda and Jane Luu|On the detectability of lightcurves of Kuiper Belt objects|Icarus|2003|html|http://arxiv.org/abs/astro-ph/0401300
+156|G. Kovacs and G. Bakos and R. W. Noyes|A Trend Filtering Algorithm for wide field variability surveys|MON.NOT.ROY.ASTRON.SOC.|2005|html|http://arxiv.org/abs/astro-ph/0411724
+157|Yu V. Baryshev and Yu L. Bukhmastova|The Method of a Two-Point Conditional Column Density for Estimating the  Fractal Dimension of the Galaxy Distribution|Astronomy Letters|2004|html|http://arxiv.org/abs/astro-ph/0409142
+158|Uffe Hellsten and Lars Hernquist and Neal Katz and David Weinberg|The Observability of Metal Lines Associated with the Lyman-alpha Forest|The Astrophysical Journal|1997|html|http://arxiv.org/abs/astro-ph/9708090
+159|Sarah Brough and Duncan Forbes and Virginia Kilborn and Warrick Couch|Southern GEMS Groups I: Dynamical Properties|MON.NOT.ROY.ASTRON.SOC.|2006|html|http://arxiv.org/abs/astro-ph/0605279
+160|Dennis Wilkinson and Bernardo A. Huberman|Finding Communities of Related Genes|Nucleic Acids Research|2002|html|http://arxiv.org/abs/cond-mat/0210147
+161|J. L. Sokoloski|Symbiotic Stars as Laboratories for the Study of Accretion and Jets: A  Call for Optical Monitoring|Publications of the Astronomical Society of the Pacific|2004|html|http://arxiv.org/abs/astro-ph/0403004
+162|Steven Bird and Mark Liberman|A Formal Framework for Linguistic Annotation|Genome Biology|1999|html|http://arxiv.org/abs/cs/9903003
+163|Mark Heiligman|Finding Matches between Two Databases on a Quantum Computer|Astronomy and Astrophysics Supplement Series|2000|html|http://arxiv.org/abs/quant-ph/0006136
+164|P. Giommi and M. T. Menna and P. Padovani|The Sedentary Multi-Frequency Survey. I. Statistical Identification and  Cosmological Properties of HBL BL Lacs|Astronomy and Astrophysics Supplement Series|1999|html|http://arxiv.org/abs/astro-ph/9907014
+165|David A. Meyer|Sophisticated quantum search without entanglement|LNCS|2000|html|http://arxiv.org/abs/quant-ph/0007070
+166|R. L. Workman|The E2/M1 Ratio, a Status Report|Nucleic Acids Research|1998|html|http://arxiv.org/abs/nucl-th/9810013
+167|Goong Chen and Stephen A. Fulling and Jeesen Chen|Generalization of Grover's Algorithm to Multiobject Search in Quantum  Computing, Part I: Continuous Time and Discrete Time|BMC Bioinformatics|2000|html|http://arxiv.org/abs/quant-ph/0007123
+168|Tomasz Mizerski|Multiperiodic RR Lyrae stars in the center of the Galaxy|ACTA ASTRONOMICA|2003|html|http://arxiv.org/abs/astro-ph/0401612
+169|R. L. Workman|The E2/M1 Ratio, a Status Report|Nucleic Acids Research|1998|html|http://arxiv.org/abs/nucl-th/9810013
+170|Goong Chen and Stephen A. Fulling and Jeesen Chen|Generalization of Grover's Algorithm to Multiobject Search in Quantum  Computing, Part I: Continuous Time and Discrete Time|BMC Bioinformatics|2000|html|http://arxiv.org/abs/quant-ph/0007123
+171|Tomasz Mizerski|Multiperiodic RR Lyrae stars in the center of the Galaxy|ACTA ASTRONOMICA|2003|html|http://arxiv.org/abs/astro-ph/0401612
+172|Carl J. Grillmair|Probing the Galactic Halo with Globular Cluster Tidal Tails|Nucleic Acids Research|1997|html|http://arxiv.org/abs/astro-ph/9711223
+173|N. J. A. Sloane|The On-Line Encyclopedia of Integer Sequences|Nucleic Acids Research|2003|html|http://arxiv.org/abs/math/0312448
+174|A. Pigulski and Z. Kolaczkowski|Early-type variables in the Magellanic Clouds. I. Beta Cephei stars in  the LMC bar|ASTRON.ASTROPHYS.|2002|html|http://arxiv.org/abs/astro-ph/0203461
+175|D. Wiebe and D. Semenov and Th Henning|Reduction of chemical networks. I. The case of molecular clouds|ASTRON.ASTROPHYS.|2003|html|http://arxiv.org/abs/astro-ph/0212096
+176|Vladimir Korepin|Optimization of Partial Search|MATH.GEN.|2005|html|http://arxiv.org/abs/quant-ph/0503238
+177|M. Bellazzini and F. R. Ferraro and E. Pancino|A step toward the calibration of the RGB Tip as a Standard Candle|MATH.GEN.|2001|html|http://arxiv.org/abs/astro-ph/0104114
+178|M. K. Szymanski|The Optical Gravitational Lensing Experiment. Internet Access to the  OGLE Photometry Data Set: OGLE-II BVI maps and I-band data|ACTA ASTRONOMICA|2005|html|http://arxiv.org/abs/astro-ph/0602018
+179|Fabrizio Lillo and Rosario N. Mantegna|Symmetry alteration of ensemble return distribution in crash and rally  days of financial markets|BMC Bioinformatics|2000|html|http://arxiv.org/abs/cond-mat/0002438
+180|M. C. Smith|The OGLE-II event sc5\_2859 -- An example of disk-disk microlensing|MON.NOT.ROY.ASTRON.SOC.|2003|html|http://arxiv.org/abs/astro-ph/0304442
+181|E. Valenti and F. R. Ferraro and S. Perina and L. Origlia|TNG Near-IR Photometry of five Galactic Globular Clusters|MON.NOT.ROY.ASTRON.SOC.|2004|html|http://arxiv.org/abs/astro-ph/0401153
+182|N. -V. Buchete and J. E. Straub and D. Thirumalai|Anisotropic coarse-grained statistical potentials improve the ability to  identify native-like protein structures|J.CHEM.PHYS.|2003|html|http://arxiv.org/abs/physics/0302009
+183|A. N. Gorban and T. G. Popova and A. Yu Zinovyev|Four basic symmetry types in the universal 7-cluster structure of 143  complete bacterial genomic sequences|SILICO BIOL.|2005|html|http://arxiv.org/abs/q-bio/0410033
+184|Steven R. Cranmer|A Statistical Study of Threshold Rotation Rates for the Formation of  Disks around Be Stars|The Astrophysical Journal|2005|html|http://arxiv.org/abs/astro-ph/0507718
+185|Helmut Steinle|The spectral energy distribution of Centaurus A (NGC 5128) - A summary  of all observations including all GCRO results -|AIP CONF.PROC.|2001|html|http://arxiv.org/abs/astro-ph/0105482
+186|Fabrizio Lillo and Rosario N. Mantegna|Variety and Volatility in Financial Markets|BMC Bioinformatics|2000|html|http://arxiv.org/abs/cond-mat/0006065
+187|W. A. Dziembowski and T. T. Mizerski|Nonradial mode excitation as the cause of the Blazhko effect in RR Lyrae  stars|Acta Astronautica|2004|html|http://arxiv.org/abs/astro-ph/0501435
+188|Rudi Cilibrasi and Paul M. B. Vitanyi|Automatic Meaning Discovery Using Google|BMC Bioinformatics|2004|html|http://arxiv.org/abs/cs/0412098
+189|S. G. Djorgovski|Virtual Astronomy, Information Technology, and the New Scientific  Methodology|BMC Bioinformatics|2005|html|http://arxiv.org/abs/astro-ph/0504651
+190|D. Menzies and G. J. Mathews|Peculiar Velocity and Deaberration of the Sky|The Astrophysical Journal|2005|html|http://arxiv.org/abs/astro-ph/0409175
+191|Ph Prugniel and C. Soubiran|New release of the ELODIE library|BMC Bioinformatics|2004|html|http://arxiv.org/abs/astro-ph/0409214
+192|Marc Freitag and Willy Benz|A Monte Carlo Code to Investigate Stellar Collisions in Dense Galactic  Nuclei|BMC Bioinformatics|2001|html|http://arxiv.org/abs/astro-ph/0101186
+193|A. I. Vasyunin and A. M. Sobolev and D. S. Wiebe and D. A. Semenov|On the Influence of Uncertainties in Chemical Reaction Rates on Results  of the Astrochemical Modelling|Astronomy Letters|2004|html|http://arxiv.org/abs/astro-ph/0311450
+194|Puxun Wu and Hongwei Yu|Constraints on a variable dark energy model with recent observations|Physics Letters B|2006|html|http://arxiv.org/abs/astro-ph/0611507
+195|Apoorva Patel|Optimal Database Search: Waves and Catalysis|Physics Letters B|2004|html|http://arxiv.org/abs/quant-ph/0401154
+196|Jeremy Kepner and Rita Kim|Cluster Detection in Astronomical Databases: the Adaptive Matched Filter  Algorithm and Implementation|Nucleic Acids Research|2000|html|http://arxiv.org/abs/astro-ph/0004304
+197|Karl Svozil|Consistent use of paradoxes in deriving constraints on the dynamics of  physical systems and of no-go-theorems|ACAD.SCI.|1995|html|http://arxiv.org/abs/quant-ph/9502008
+198|Stefanie Komossa|X-ray Evidence for Supermassive Black Holes in Non-Active Galaxies.  Subtitle: Detection of X-ray Flare Events, Interpreted as Tidal Disruptions  of Stars by SMBHs|ACAD.SCI.|2001|html|http://arxiv.org/abs/astro-ph/0109441
+199|Raymond Kosala and Hendrik Blockeel|Web Mining Research: A Survey|ACM SIGKDD EXPLORATIONS|2000|html|http://arxiv.org/abs/cs/0011033
+200|V. A. Rantsev-Kartinov|Evidences for Skeletal Structures in the Ocean from the Images Analyzed  by Multilevel Dynamical Contrasting Method|Environmental Health Perspectives|2004|html|http://arxiv.org/abs/physics/0401139
+201|Daniel Schaerer and Thierry Contini and Maximilien Pindao|New catalogue of Wolf-Rayet galaxies and high-excitation extra-galactic  HII regions|BMC Genomics|1998|html|http://arxiv.org/abs/astro-ph/9812347
+202|N. R. Badnell|Radiative recombination data for modelling dynamic finite-density  plasmas|Critical Care|2006|html|http://arxiv.org/abs/astro-ph/0604144
+203|Samuel J. {Lomonaco Jr}|Grover's quantum search algorithm|Critical Care|2000|html|http://arxiv.org/abs/quant-ph/0010040
+204|Scott Aaronson|Quantum Computing and Hidden Variables II: The Complexity of Sampling  Histories|Genome Biology|2004|html|http://arxiv.org/abs/quant-ph/0408119
+205|Tomaso Belloni|Transient Phenomena and Outbursts from Galactic Black-Hole Candidates|Genome Biology|2001|html|http://arxiv.org/abs/astro-ph/0112217
+206|Michael Loewenstein|Chemical Composition of the Intracluster Medium|Nucleic Acids Research|2003|html|http://arxiv.org/abs/astro-ph/0310557
+207|A. Dobrzycki and K. Z. Stanek and L. M. Macri and P. J. Groot|New X-ray quasars behind the Small Magellanic Cloud|Astronomical Journal|2003|html|http://arxiv.org/abs/astro-ph/0301617
+208|Neil Shenvi and Kenneth R. Brown and K. Birgitta Whaley|Effects of Noisy Oracle on Search Algorithm Complexity|BMC Bioinformatics|2003|html|http://arxiv.org/abs/quant-ph/0304138
+209|Jason X. Prochaska and Arthur M. Wolfe|The UCSD HIRES/KeckI Damped Lya Abundance Database: II. The Implications|BMC Genomics|2001|html|http://arxiv.org/abs/astro-ph/0110351
+210|Fabrizio Lillo and Rosario N. Mantegna|Symmetry alteration of ensemble return distribution in crash and rally  days of financial markets|ASTRON.ASTROPHYS.|2000|html|http://arxiv.org/abs/cond-mat/0002438
+211|M. C. Smith|The OGLE-II event sc5\_2859 -- An example of disk-disk microlensing|MON.NOT.ROY.ASTRON.SOC.|2003|html|http://arxiv.org/abs/astro-ph/0304442
+212|E. Valenti and F. R. Ferraro and S. Perina and L. Origlia|TNG Near-IR Photometry of five Galactic Globular Clusters|MON.NOT.ROY.ASTRON.SOC.|2004|html|http://arxiv.org/abs/astro-ph/0401153
+213|N. -V. Buchete and J. E. Straub and D. Thirumalai|Anisotropic coarse-grained statistical potentials improve the ability to  identify native-like protein structures|J.CHEM.PHYS.|2003|html|http://arxiv.org/abs/physics/0302009
+214|A. N. Gorban and T. G. Popova and A. Yu Zinovyev|Four basic symmetry types in the universal 7-cluster structure of 143  complete bacterial genomic sequences|SILICO BIOL.|2005|html|http://arxiv.org/abs/q-bio/0410033
+215|Steven R. Cranmer|A Statistical Study of Threshold Rotation Rates for the Formation of  Disks around Be Stars|The Astrophysical Journal|2005|html|http://arxiv.org/abs/astro-ph/0507718
+216|O. V. Verkhodanov and H. Andernach and N. V. Verkhodanova|Radio identification of decametric sources. I. Catalogue|The Astrophysical Journal|2000|html|http://arxiv.org/abs/astro-ph/0008431
+217|Stephane Courteau|An Atlas for Structural Studies of Spiral Galaxies|BMC Bioinformatics|1999|html|http://arxiv.org/abs/astro-ph/9903297
+218|Craig McNeile|Data storage issues in lattice QCD calculations|Environmental Health Perspectives|2000|html|http://arxiv.org/abs/hep-lat/0003009
+219|Matthew G. Baring|High-Energy Emission from Pulsars: The Polar Cap Scenario|Nucleic Acids Research|2003|html|http://arxiv.org/abs/astro-ph/0308296
+220|Massimo Persic and Paolo Salucci|ROTATION CURVES OF 967 SPIRAL GALAXIES|Nucleic Acids Research|1995|html|http://arxiv.org/abs/astro-ph/9502091
+221|T. Miyaji and R. E. Griffiths|First Results from the XMM-Newton Observation in the Groth-Westphal  Survey Strip Region|Nucleic Acids Research|2001|html|http://arxiv.org/abs/astro-ph/0106028
+222|G. T. Barkema and Normand Mousseau|Identification of relaxation and diffusion mechanisms in amorphous  silicon|Nucleic Acids Research|1998|html|http://arxiv.org/abs/cond-mat/9804317
+223|Shai Kaspi and W. N. Brandt and Donald P. Schneider|The X-ray Properties of z$>$4 Quasars|Nucleic Acids Research|2000|html|http://arxiv.org/abs/astro-ph/0001299
+224|Atushi Ishikawa|Pareto law and Pareto index in the income distribution of Japanese  companies|Nucleic Acids Research|2004|html|http://arxiv.org/abs/cond-mat/0409145
+225|Kevin A. Pimbblet and Alastair C. Edge and Warrick J. Couch|Discovery of a Large-scale Wall in the Direction of Abell 22|MON.NOT.ROY.ASTRON.SOC.|2005|html|http://arxiv.org/abs/astro-ph/0412076
