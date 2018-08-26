@@ -1,8 +1,10 @@
 # PHP_AcademicArticle-Data-Formatting
 Format the raw data of academic articles and Implement Pagination and Sort
-## The website url is https://zhepu-zhepu.cloudapps.unc.edu/APA_data_format_project/zhepu_p1_browse.php
+## The website url is 
+https://zhepu-zhepu.cloudapps.unc.edu/APA_data_format_project/zhepu_p1_browse.php
 
-## More information could reference my personal Portfolio website: https://opal.ils.unc.edu/~zhepu/self/funProjects.html
+## More information could reference my personal Portfolio website: 
+https://opal.ils.unc.edu/~zhepu/self/funProjects.html
 
 ## This project mainly implements following functions:
 
